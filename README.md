@@ -14,7 +14,7 @@
 
 ## Pontos de melhoria
 1) Finalizar compra (Resetando o carrinho)
-2) Testes Unitários
+2) Testes Unitários: até tentei explorar, mas não tenho conhecimento sobre, então ficaria um pouco anti-natural.
 3) Cadastro/Login
 
 ## Deploy online 
