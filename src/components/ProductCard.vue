@@ -57,7 +57,7 @@ import { useRouter } from 'vue-router';
             </div>
 
             <div class="card-actions mt-4">
-                <button label="Search" class="btn btn-primary btn-block active:scale-95 transition-transform" @click="goToDetails(product.id)">Exibir</button>
+                <button label="Search" class="btn btn-primary btn-block active:scale-95 transition-transform" @click="goToDetails(product.id)">Ver detalhes</button>
                 <button 
                 @click="cartStore.addToCart({ ...product, quantity: 1 })" 
                 class="btn btn-primary btn-block active:scale-95 transition-transform">
