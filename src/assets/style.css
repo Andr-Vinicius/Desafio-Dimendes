@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme{
+  --font-sans: 'Inter', sans-serif;
+}
+
+:root{
+  --p: 153 47% 49%;
+  --pc: 153 100% 10%;
+}
