@@ -1,7 +1,7 @@
 # Desafio Dimendes
 
 ## Como rodar o projeto?
-1) git clone git@github.com:Andr-Vinicius/Desafio-Dimendes.git
+1) git clone [git@github.com:Andr-Vinicius/Desafio-Dimendes.git](git@github.com:Andr-Vinicius/Desafio-Dimendes.git)
 2) npm install
 3) npm run dev
 
